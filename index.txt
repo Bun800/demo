@@ -1,3 +1,0 @@
-2019/9.27
-:wq
-hello world !
